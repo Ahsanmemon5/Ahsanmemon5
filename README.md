@@ -1,6 +1,6 @@
 <h1 align="center">Ahsan Memon</h1>
 <h3 align="center">Web developer from Pakistan.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/aqsa-isha/aqsa-isha1/blob/main/Hello%20Dribbble!.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Ahsanmemon5/Ahsanmemon5/blob/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa-isha&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa-isha" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligece, Machine Learning and Deep Learning**
